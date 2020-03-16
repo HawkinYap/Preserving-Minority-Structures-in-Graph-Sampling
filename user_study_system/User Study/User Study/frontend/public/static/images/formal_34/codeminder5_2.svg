@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3494.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1640.000000 -920.000000 3494.000000 2206.000000" height="2206.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="6.0"
+              d="M 1789.971558,-632.569153 L 1580.314575,-699.112244"
+              class="id_CORTEZ,_FABIAN id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1734.083618,-714.234741 L 1580.314575,-699.112244"
+              class="id_SCANNER_II id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1694.106567,-797.140869 L 1580.314575,-699.112244"
+              class="id_BLACK_KNIGHT_V/DANE id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L 423.674866,-653.713867"
+              class="id_NELSON,_FRANKLIN_FOG id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1787.578491,-852.278625 L 1580.314575,-699.112244"
+              class="id_HUMAN_TORCH_ANDROID/ id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 214.839478,-766.386658 L 423.674866,-653.713867"
+              class="id_JAMESON,_MARLA_MADIS id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 423.674866,-653.713867"
+              class="id_DAREDEVIL/MATT_MURDO id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 117.771065,-488.875641 L 423.674866,-653.713867"
+              class="id_ELLIS,_KEN id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 139.766174,-610.746643 L 423.674866,-653.713867"
+              class="id_SPIDER-MAN_CLONE/BEN id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1648.518677,-824.626038 L 1580.314575,-699.112244"
+              class="id_ARBOGAST,_BAMBI id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 583.602722,-839.180542 L 423.674866,-653.713867"
+              class="id_URICH,_BEN id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 531.537781,-871.023376 L 423.674866,-653.713867"
+              class="id_JAMESON,_J._JONAH id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L 423.674866,-653.713867"
+              class="id_ROBERTSON,_JOE id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1694.523926,-894.251343 L 1580.314575,-699.112244"
+              class="id_PUNISHER_II/FRANK_CA id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1752.954956,-777.795410 L 1580.314575,-699.112244"
+              class="id_SHE-HULK/JENNIFER_WA id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1742.512939,-823.935486 L 1580.314575,-699.112244"
+              class="id_SUB-MARINER/NAMOR_MA id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1610.464478,-855.235474 L 1580.314575,-699.112244"
+              class="id_KLEINSTOCK,_HARLAN id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1703.794678,-749.893311 L 1580.314575,-699.112244"
+              class="id_KLEINSTOCK,_SVEN id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1083.583008,-714.944702 L 423.674866,-653.713867"
+              class="id_KNIGHT,_MISTY id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1083.583008,-714.944702 L 1580.314575,-699.112244"
+              class="id_KNIGHT,_MISTY id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1073.853882,-759.270203 L 423.674866,-653.713867"
+              class="id_IRON_FIST/DANIEL_RAN id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1073.853882,-759.270203 L 1580.314575,-699.112244"
+              class="id_IRON_FIST/DANIEL_RAN id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1695.353027,-846.690552 L 1580.314575,-699.112244"
+              class="id_STRIDER id_HFH_8" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 589.933350,-788.483765 L 423.674866,-653.713867"
+              class="id_LEWIS,_SHIRLEY_WASHI id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 169.075027,-858.439453 L 423.674866,-653.713867"
+              class="id_WING,_COLLEEN id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1825.705200,-770.586487 L 1580.314575,-699.112244"
+              class="id_UNUSCIONE id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1747.045776,-611.824036 L 1580.314575,-699.112244"
+              class="id_THENA id_HFH_8" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 249.632309,-505.519958 L 423.674866,-653.713867"
+              class="id_STONE,_LT._MARCUS id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 540.868103,-824.192078 L 423.674866,-653.713867"
+              class="id_SCORPION/MACDONALD_G id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1743.592407,-879.717407 L 1580.314575,-699.112244"
+              class="id_HOGARTH,_JERYN id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1646.760742,-886.933411 L 1580.314575,-699.112244"
+              class="id_EXODUS/BENNET_DUPARI id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1768.310059,-681.403259 L 1580.314575,-699.112244"
+              class="id_WHITE_TIGER_II/ id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1802.145630,-808.604858 L 1580.314575,-699.112244"
+              class="id_MASTER/ESHU id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1828.027588,-721.867065 L 1580.314575,-699.112244"
+              class="id_RITTER,_DONALD id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1779.804810,-740.102051 L 1580.314575,-699.112244"
+              class="id_RITTER,_DEBORAH id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1719.951416,-665.165466 L 1580.314575,-699.112244"
+              class="id_LADY_OF_THE_LAKE id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1702.470459,-615.856995 L 1580.314575,-699.112244"
+              class="id_MONTOYA,_JULIO id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 1816.284546,-676.352966 L 1580.314575,-699.112244"
+              class="id_MONTOYA,_MARIA id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 926.281189,1229.098389 L 767.324402,1057.169556"
+              class="id_HAWK id_CAGE_6" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 925.081177,1162.749023 L 767.324402,1057.169556"
+              class="id_WONDER_MAN/SIMON_WIL id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 926.274658,1106.780396 L 767.324402,1057.169556"
+              class="id_USAGENT/CAPTAIN_JOHN id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 883.903564,1196.722900 L 767.324402,1057.169556"
+              class="id_HARDCORE/ id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 886.251709,1255.348633 L 767.324402,1057.169556"
+              class="id_ANDREWS,_DARYL_TROOP id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 836.614990,1200.039795 L 767.324402,1057.169556"
+              class="id_MEDINA,_ANALISA_MARI id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 839.986877,1247.241943 L 767.324402,1057.169556"
+              class="id_HAMILTON,_MICKY id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 961.321838,1195.067261 L 767.324402,1057.169556"
+              class="id_POWER_MAN_III/STEELE id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 880.397278,1146.279785 L 767.324402,1057.169556"
+              class="id_ANDERS,_JOSHUA_RICHI id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -123.765648,1103.499756 L -69.580772,924.215332"
+              class="id_THUNDERBOLT/BILLY_CA id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -260.126129,1120.373047 L -69.580772,924.215332"
+              class="id_GOLDBUG id_PM_41" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1468.587036,1258.068604 L -1397.628418,1077.175781"
+              class="id_STEELE,_MARCY_MASTER id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1515.232422,1113.560791 L -1397.628418,1077.175781"
+              class="id_AUSTIN,_SUSAN id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1546.938843,1193.212402 L -1397.628418,1077.175781"
+              class="id_CARTER,_PEGGY id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1522.432251,1260.649292 L -1397.628418,1077.175781"
+              class="id_MASTERSON,_KEVIN id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1458.254028,1190.577393 L -1397.628418,1077.175781"
+              class="id_MONGOOSE id_TS_13" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1588.758179,1054.400635 L -1397.628418,1077.175781"
+              class="id_QUICKSAND id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1614.878296,1147.697144 L -1397.628418,1077.175781"
+              class="id_BLACK_WIDOW/NATASHA id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1554.788330,1093.071411 L -1397.628418,1077.175781"
+              class="id_JARVIS,_EDWIN id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1428.152344,1228.211670 L -1397.628418,1077.175781"
+              class="id_THUNDERSTRIKE/ERIC_K id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1499.381104,1215.103271 L -1397.628418,1077.175781"
+              class="id_JOYCE,_SAMANTHA id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1564.202393,1144.967041 L -1397.628418,1077.175781"
+              class="id_STELLARIS/LEAH_PRINC id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1537.281860,1044.450806 L -1397.628418,1077.175781"
+              class="id_STEELE,_BOBBY id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1568.559082,1236.937256 L -1397.628418,1077.175781"
+              class="id_PARETSKY,_DR._GARY id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1608.884399,1100.461792 L -1397.628418,1077.175781"
+              class="id_BISON/BILLY_KITSON id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1600.921753,1194.800293 L -1397.628418,1077.175781"
+              class="id_ASBERY,_SHAMARI id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1505.668579,1162.210083 L -1397.628418,1077.175781"
+              class="id_DEPAUL,_SHIELD_SPECI id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -153.697266,1223.160522 L -153.751892,843.490845"
+              class="id_DR._DOOM/VICTOR_VON id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 767.324402,1057.169556"
+              class="id_GRIFFITH,_D.W. id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 423.674866,-653.713867"
+              class="id_GRIFFITH,_D.W. id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -220.108353,882.584290"
+              class="id_GRIFFITH,_D.W. id_PM_38" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -227.778717,-331.576324"
+              class="id_GRIFFITH,_D.W. id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 146.754791,568.666687"
+              class="id_GRIFFITH,_D.W. id_PM_33" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -13.972029,457.322144"
+              class="id_GRIFFITH,_D.W. id_PM_35" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 25.276266,787.710876"
+              class="id_GRIFFITH,_D.W. id_PM_37" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 185.802536,-515.460144"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_94" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -370.838531,-669.653137"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_95" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 375.695770,-187.003235"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_96" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 228.131210,-51.062691"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_97" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -201.578094,-668.111877"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_90" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -132.226578,-265.194946"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_93" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 37.758049,153.180206"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_98" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 228.840744,716.532593"
+              class="id_GRIFFITH,_D.W. id_LCHFH_10" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -527.486755,-167.082352"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_105" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 147.971771,-338.058258"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_60" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -288.851227,-704.568665"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_63" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 35.653629,-354.604736"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_67" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 284.092865,-4.685179"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_66" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -481.583008,-567.774048"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_73" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -1397.628418,1077.175781"
+              class="id_GRIFFITH,_D.W. id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 185.708832,345.230072"
+              class="id_GRIFFITH,_D.W. id_PM_28" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 29.260302,-199.800659"
+              class="id_GRIFFITH,_D.W. id_PM_26" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -73.333115,-704.957581"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_84" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 347.322815,-235.614349"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_83" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -69.580772,924.215332"
+              class="id_GRIFFITH,_D.W. id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 1580.314575,-699.112244"
+              class="id_GRIFFITH,_D.W. id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -153.751892,843.490845"
+              class="id_GRIFFITH,_D.W. id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 65.953812,574.293030"
+              class="id_GRIFFITH,_D.W. id_LCHFH_3" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 32.682915,692.076538"
+              class="id_GRIFFITH,_D.W. id_LCHFH_2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -233.777512,-38.253433"
+              class="id_GRIFFITH,_D.W. id_LCHFH_5" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 129.258820,687.271118"
+              class="id_GRIFFITH,_D.W. id_LCHFH_4" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 273.489227,-208.425674"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_111" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -659.890930,-153.197235"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_89" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -415.895844,-311.094330"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_88" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -335.901978,-436.845337"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_76/2"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 173.236023,62.626137"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_79" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -614.717529,-332.502747"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_71" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -441.071198,-443.964447"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_108" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -367.628876,-491.859833"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_102" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -609.218201,-58.577660"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_100" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -20.541162,-482.191650"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_56" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 334.798218,-151.024933"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_58" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -502.002716,-335.691010"
+              class="id_GRIFFITH,_D.W. id_PM&amp;andIF_59" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 767.324402,1057.169556"
+              class="id_CAGE,_LUKE/CARL_LUCA id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 423.674866,-653.713867"
+              class="id_CAGE,_LUKE/CARL_LUCA id_ASMU_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -220.108353,882.584290"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_38" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -227.778717,-331.576324"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 146.754791,568.666687"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_33" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -13.972029,457.322144"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_35" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 25.276266,787.710876"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_37" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 228.840744,716.532593"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_10" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -1397.628418,1077.175781"
+              class="id_CAGE,_LUKE/CARL_LUCA id_TS_13" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 185.708832,345.230072"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_28" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 29.260302,-199.800659"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_26" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -69.580772,924.215332"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 1580.314575,-699.112244"
+              class="id_CAGE,_LUKE/CARL_LUCA id_HFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -153.751892,843.490845"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 65.953812,574.293030"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_3" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 32.682915,692.076538"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -233.777512,-38.253433"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_5" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L 129.258820,687.271118"
+              class="id_CAGE,_LUKE/CARL_LUCA id_LCHFH_4" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L -89.891136,748.296143"
+              class="id_GRIFFITH,_D.W. id_PM_23" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 75.421730,430.732147 L -89.891136,748.296143"
+              class="id_CAGE,_LUKE/CARL_LUCA id_PM_23" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -279.640686,1024.101440 L -89.891136,748.296143"
+              class="id_MACE id_PM_23" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -425.147522,-183.599442 L -233.777512,-38.253433"
+              class="id_BLACK_MARIAH id_LCHFH_5" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 767.324402,1057.169556"
+              class="id_BERNSTEIN,_DR._NOAH id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 146.754791,568.666687"
+              class="id_BERNSTEIN,_DR._NOAH id_PM_33" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L -13.972029,457.322144"
+              class="id_BERNSTEIN,_DR._NOAH id_PM_35" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 185.708832,345.230072"
+              class="id_BERNSTEIN,_DR._NOAH id_PM_28" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L -69.580772,924.215332"
+              class="id_BERNSTEIN,_DR._NOAH id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 65.953812,574.293030"
+              class="id_BERNSTEIN,_DR._NOAH id_LCHFH_3" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 32.682915,692.076538"
+              class="id_BERNSTEIN,_DR._NOAH id_LCHFH_2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 204.231918,833.427734 L 129.258820,687.271118"
+              class="id_BERNSTEIN,_DR._NOAH id_LCHFH_4" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L -220.108353,882.584290"
+              class="id_TEMPLE,_CLAIRE id_PM_38" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 146.754791,568.666687"
+              class="id_TEMPLE,_CLAIRE id_PM_33" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 25.276266,787.710876"
+              class="id_TEMPLE,_CLAIRE id_PM_37" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 228.840744,716.532593"
+              class="id_TEMPLE,_CLAIRE id_LCHFH_10" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L -69.580772,924.215332"
+              class="id_TEMPLE,_CLAIRE id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L -153.751892,843.490845"
+              class="id_TEMPLE,_CLAIRE id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 65.953812,574.293030"
+              class="id_TEMPLE,_CLAIRE id_LCHFH_3" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 32.682915,692.076538"
+              class="id_TEMPLE,_CLAIRE id_LCHFH_2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 129.258820,687.271118"
+              class="id_TEMPLE,_CLAIRE id_LCHFH_4" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 268.279572,992.179382 L 129.258820,687.271118"
+              class="id_FOX,_PHIL id_LCHFH_4" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 268.279572,992.179382 L 228.840744,716.532593"
+              class="id_FOX,_PHIL id_LCHFH_10" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L 32.682915,692.076538"
+              class="id_DIAMONDBACK id_LCHFH_2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 161.343185,-248.862747 L 29.260302,-199.800659"
+              class="id_TREVORIK id_PM_26" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L -220.108353,882.584290"
+              class="id_CHEMISTRO/CURTIS_CAR id_PM_38" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L 25.276266,787.710876"
+              class="id_CHEMISTRO/CURTIS_CAR id_PM_37" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 272.737579,1083.898193 L 228.840744,716.532593"
+              class="id_MR._LUCK/RAMON_GARCI id_LCHFH_10" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 968.023926,1136.291626 L 767.324402,1057.169556"
+              class="id_NORTH,_DAKOTA id_CAGE_6" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 249.632309,-505.519958 L -82.111816,-38.993629"
+              class="id_STONE,_LT._MARCUS id_GRIFFITH,_D.W."
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L -82.111816,-38.993629"
+              class="id_NELSON,_FRANKLIN_FOG id_GRIFFITH,_D.W."
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 117.771065,-488.875641 L -82.111816,-38.993629"
+              class="id_ELLIS,_KEN id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 139.766174,-610.746643 L -82.111816,-38.993629"
+              class="id_SPIDER-MAN_CLONE/BEN id_GRIFFITH,_D.W."
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L -82.111816,-38.993629"
+              class="id_ROBERTSON,_JOE id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 249.632309,-505.519958 L 185.802536,-515.460144"
+              class="id_STONE,_LT._MARCUS id_PM&amp;andIF_94"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 423.674866,-653.713867 L 185.802536,-515.460144"
+              class="id_ASMU_13 id_PM&amp;andIF_94" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L 375.695770,-187.003235"
+              class="id_NELSON,_FRANKLIN_FOG id_PM&amp;andIF_96"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L 334.798218,-151.024933"
+              class="id_NELSON,_FRANKLIN_FOG id_PM&amp;andIF_58"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L 347.322815,-235.614349"
+              class="id_NELSON,_FRANKLIN_FOG id_PM&amp;andIF_83"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 362.996521,-334.964539 L 273.489227,-208.425674"
+              class="id_NELSON,_FRANKLIN_FOG id_PM&amp;andIF_111"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L -288.851227,-704.568665"
+              class="id_DAREDEVIL/MATT_MURDO id_PM&amp;andIF_63"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L -227.778717,-331.576324"
+              class="id_DAREDEVIL/MATT_MURDO id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 169.075027,-858.439453 L -73.333115,-704.957581"
+              class="id_WING,_COLLEEN id_PM&amp;andIF_84" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L -82.111816,-38.993629"
+              class="id_ROBERTSON,_JOE id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 214.839478,-766.386658 L -20.541162,-482.191650"
+              class="id_JAMESON,_MARLA_MADIS id_PM&amp;andIF_56"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -279.640686,1024.101440 L -199.961655,1142.925293"
+              class="id_MACE id_CHEMISTRO/CURTIS_CAR" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -279.640686,1024.101440 L -220.108353,882.584290"
+              class="id_MACE id_PM_38" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L -153.697266,1223.160522"
+              class="id_CHEMISTRO/CURTIS_CAR id_DR._DOOM/VICTOR_VON"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 C 110.236771,848.739197 110.236771,948.739197 60.236767,898.739197"
+              class="id_TEMPLE,_CLAIRE" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -82.111816,-38.993629 L 75.421730,430.732147"
+              class="id_GRIFFITH,_D.W. id_CAGE,_LUKE/CARL_LUCA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 37.758049,153.180206 L 75.421730,430.732147"
+              class="id_PM&amp;andIF_98 id_CAGE,_LUKE/CARL_LUCA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 284.092865,-4.685179 L 173.236023,62.626137"
+              class="id_PM&amp;andIF_66 id_PM&amp;andIF_79" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -227.778717,-331.576324 L -415.895844,-311.094330"
+              class="id_PM_30 id_PM&amp;andIF_88" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -227.778717,-331.576324 L -233.777512,-38.253433"
+              class="id_PM_30 id_LCHFH_5" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -233.777512,-38.253433 L 29.260302,-199.800659"
+              class="id_LCHFH_5 id_PM_26" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L -227.778717,-331.576324"
+              class="id_PM_26 id_PM_30" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -425.147522,-183.599442 L -82.111816,-38.993629"
+              class="id_BLACK_MARIAH id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -201.578094,-668.111877 L -370.838531,-669.653137"
+              class="id_PM&amp;andIF_90 id_PM&amp;andIF_95" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -370.838531,-669.653137 L -288.851227,-704.568665"
+              class="id_PM&amp;andIF_95 id_PM&amp;andIF_63" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -288.851227,-704.568665 L -201.578094,-668.111877"
+              class="id_PM&amp;andIF_63 id_PM&amp;andIF_90" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -201.578094,-668.111877 L -73.333115,-704.957581"
+              class="id_PM&amp;andIF_90 id_PM&amp;andIF_84" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -73.333115,-704.957581 L -129.314743,-551.708557"
+              class="id_PM&amp;andIF_84 id_ROBERTSON,_JOE" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L -481.583008,-567.774048"
+              class="id_ROBERTSON,_JOE id_PM&amp;andIF_73" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -481.583008,-567.774048 L -370.838531,-669.653137"
+              class="id_PM&amp;andIF_73 id_PM&amp;andIF_95" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -370.838531,-669.653137 L -129.314743,-551.708557"
+              class="id_PM&amp;andIF_95 id_ROBERTSON,_JOE" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L 139.766174,-610.746643"
+              class="id_ROBERTSON,_JOE id_SPIDER-MAN_CLONE/BEN"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 139.766174,-610.746643 L 117.771065,-488.875641"
+              class="id_SPIDER-MAN_CLONE/BEN id_ELLIS,_KEN" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 117.771065,-488.875641 L -129.314743,-551.708557"
+              class="id_ELLIS,_KEN id_ROBERTSON,_JOE" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L -527.486755,-167.082352"
+              class="id_ROBERTSON,_JOE id_PM&amp;andIF_105" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -527.486755,-167.082352 L -609.218201,-58.577660"
+              class="id_PM&amp;andIF_105 id_PM&amp;andIF_100"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -736.429138,-324.300690"
+              class="id_333 id_335" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -775.786438,-535.786194"
+              class="id_333 id_336" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -557.700073,-458.770294"
+              class="id_333 id_337" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -802.312988,-185.540649"
+              class="id_333 id_338" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -619.166992,-219.316452"
+              class="id_333 id_339" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -741.966919,-403.146393"
+              class="id_334 id_333" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -557.700073,-458.770294"
+              class="id_334 id_337" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -557.700073,-458.770294 L -415.895844,-311.094330"
+              class="id_337 id_PM&amp;andIF_88" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -557.700073,-458.770294 L -82.111816,-38.993629"
+              class="id_337 id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -775.786438,-535.786194 L -481.583008,-567.774048"
+              class="id_336 id_PM&amp;andIF_73" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -802.312988,-185.540649 L -527.486755,-167.082352"
+              class="id_338 id_PM&amp;andIF_105" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -802.312988,-185.540649 L -609.218201,-58.577660"
+              class="id_338 id_PM&amp;andIF_100" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -619.166992,-219.316452 L -659.890930,-153.197235"
+              class="id_339 id_PM&amp;andIF_89" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -441.071198,-443.964447"
+              class="id_334 id_PM&amp;andIF_108" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -335.901978,-436.845337"
+              class="id_334 id_PM&amp;andIF_76/2" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -367.628876,-491.859833"
+              class="id_334 id_PM&amp;andIF_102" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -370.838531,-669.653137"
+              class="id_334 id_PM&amp;andIF_95" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -558.658447,-645.225647 L -288.851227,-704.568665"
+              class="id_334 id_PM&amp;andIF_63" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -736.429138,-324.300690 L -425.147522,-183.599442"
+              class="id_335 id_BLACK_MARIAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -775.786438,-535.786194 L -614.717529,-332.502747"
+              class="id_336 id_PM&amp;andIF_71" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -557.700073,-458.770294 L -502.002716,-335.691010"
+              class="id_337 id_PM&amp;andIF_59" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -557.700073,-458.770294 L -481.583008,-567.774048"
+              class="id_337 id_PM&amp;andIF_73" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -802.312988,-185.540649 L -659.890930,-153.197235"
+              class="id_338 id_PM&amp;andIF_89" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -557.700073,-458.770294 L -227.778717,-331.576324"
+              class="id_337 id_PM_30" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -619.166992,-219.316452 L -425.147522,-183.599442"
+              class="id_339 id_BLACK_MARIAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -619.166992,-219.316452 L -82.111816,-38.993629"
+              class="id_339 id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -741.966919,-403.146393 L -82.111816,-38.993629"
+              class="id_333 id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 228.131210,-51.062691 L 173.236023,62.626137"
+              class="id_PM&amp;andIF_97 id_PM&amp;andIF_79" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 228.131210,-51.062691 L 273.489227,-208.425674"
+              class="id_PM&amp;andIF_97 id_PM&amp;andIF_111"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 284.092865,-4.685179"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_66"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 284.092865,-4.685179 L 228.131210,-51.062691"
+              class="id_PM&amp;andIF_66 id_PM&amp;andIF_97" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 173.236023,62.626137 L -82.111816,-38.993629"
+              class="id_PM&amp;andIF_79 id_GRIFFITH,_D.W." stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 185.708832,345.230072 L 173.236023,62.626137"
+              class="id_PM_28 id_PM&amp;andIF_79" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -233.777512,-38.253433 L 29.260302,-199.800659"
+              class="id_LCHFH_5 id_PM_26" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 37.758049,153.180206"
+              class="id_PM_26 id_PM&amp;andIF_98" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L -132.226578,-265.194946"
+              class="id_PM_26 id_PM&amp;andIF_93" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 35.653629,-354.604736"
+              class="id_PM_26 id_PM&amp;andIF_67" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 147.971771,-338.058258"
+              class="id_PM_26 id_PM&amp;andIF_60" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 228.131210,-51.062691"
+              class="id_PM_26 id_PM&amp;andIF_97" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 173.236023,62.626137"
+              class="id_PM_26 id_PM&amp;andIF_79" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 185.802536,-515.460144"
+              class="id_PM_26 id_PM&amp;andIF_94" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L 117.771065,-488.875641"
+              class="id_PM_26 id_ELLIS,_KEN" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 29.260302,-199.800659 L -20.541162,-482.191650"
+              class="id_PM_26 id_PM&amp;andIF_56" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L 362.996521,-334.964539"
+              class="id_PM&amp;andIF_56 id_NELSON,_FRANKLIN_FOG"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L 185.802536,-515.460144"
+              class="id_PM&amp;andIF_56 id_PM&amp;andIF_94" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L 249.632309,-505.519958"
+              class="id_PM&amp;andIF_56 id_STONE,_LT._MARCUS"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L -335.901978,-436.845337"
+              class="id_PM&amp;andIF_56 id_PM&amp;andIF_76/2"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L -367.628876,-491.859833"
+              class="id_PM&amp;andIF_56 id_PM&amp;andIF_102"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -20.541162,-482.191650 L -502.002716,-335.691010"
+              class="id_PM&amp;andIF_56 id_PM&amp;andIF_59" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -367.628876,-491.859833"
+              class="id_PM&amp;andIF_59 id_PM&amp;andIF_102"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -335.901978,-436.845337 L -502.002716,-335.691010"
+              class="id_PM&amp;andIF_76/2 id_PM&amp;andIF_59"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -132.226578,-265.194946"
+              class="id_PM&amp;andIF_59 id_PM&amp;andIF_93" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -415.895844,-311.094330"
+              class="id_PM&amp;andIF_59 id_PM&amp;andIF_88" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -619.166992,-219.316452"
+              class="id_PM&amp;andIF_59 id_339" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -425.147522,-183.599442"
+              class="id_PM&amp;andIF_59 id_BLACK_MARIAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -659.890930,-153.197235"
+              class="id_PM&amp;andIF_59 id_PM&amp;andIF_89" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -502.002716,-335.691010 L -736.429138,-324.300690"
+              class="id_PM&amp;andIF_59 id_335" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 185.802536,-515.460144"
+              class="id_DAREDEVIL/MATT_MURDO id_PM&amp;andIF_94"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 139.766174,-610.746643"
+              class="id_DAREDEVIL/MATT_MURDO id_SPIDER-MAN_CLONE/BEN"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L -129.314743,-551.708557"
+              class="id_DAREDEVIL/MATT_MURDO id_ROBERTSON,_JOE"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L -201.578094,-668.111877"
+              class="id_DAREDEVIL/MATT_MURDO id_PM&amp;andIF_90"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 147.971771,-338.058258"
+              class="id_DAREDEVIL/MATT_MURDO id_PM&amp;andIF_60"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 35.653629,-354.604736"
+              class="id_DAREDEVIL/MATT_MURDO id_PM&amp;andIF_67"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L -82.111816,-38.993629"
+              class="id_DAREDEVIL/MATT_MURDO id_GRIFFITH,_D.W."
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 214.839478,-766.386658"
+              class="id_DAREDEVIL/MATT_MURDO id_JAMESON,_MARLA_MADIS"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 50.235512,-672.250122 L 169.075027,-858.439453"
+              class="id_DAREDEVIL/MATT_MURDO id_WING,_COLLEEN"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 347.322815,-235.614349"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_83"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 375.695770,-187.003235"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_96"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 334.798218,-151.024933"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_58"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 147.971771,-338.058258"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_60"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L 35.653629,-354.604736"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_67"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 273.489227,-208.425674 L -132.226578,-265.194946"
+              class="id_PM&amp;andIF_111 id_PM&amp;andIF_93"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -227.778717,-331.576324 L -132.226578,-265.194946"
+              class="id_PM_30 id_PM&amp;andIF_93" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -227.778717,-331.576324 L 35.653629,-354.604736"
+              class="id_PM_30 id_PM&amp;andIF_67" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -335.901978,-436.845337 L -227.778717,-331.576324"
+              class="id_PM&amp;andIF_76/2 id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -201.578094,-668.111877 L -227.778717,-331.576324"
+              class="id_PM&amp;andIF_90 id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -129.314743,-551.708557 L -227.778717,-331.576324"
+              class="id_ROBERTSON,_JOE id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -425.147522,-183.599442 L 29.260302,-199.800659"
+              class="id_BLACK_MARIAH id_PM_26" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -425.147522,-183.599442 L -227.778717,-331.576324"
+              class="id_BLACK_MARIAH id_PM_30" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -153.697266,1223.160522 L -260.126129,1120.373047"
+              class="id_DR._DOOM/VICTOR_VON id_GOLDBUG" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L -260.126129,1120.373047"
+              class="id_CHEMISTRO/CURTIS_CAR id_GOLDBUG" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L -123.765648,1103.499756"
+              class="id_CHEMISTRO/CURTIS_CAR id_THUNDERBOLT/BILLY_CA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -199.961655,1142.925293 L -69.580772,924.215332"
+              class="id_CHEMISTRO/CURTIS_CAR id_PM_41" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -153.697266,1223.160522 L 84.700378,1087.645508"
+              class="id_DR._DOOM/VICTOR_VON id_DIAMONDBACK" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -69.580772,924.215332 L 84.700378,1087.645508"
+              class="id_PM_41 id_DIAMONDBACK" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L -123.765648,1103.499756"
+              class="id_DIAMONDBACK id_THUNDERBOLT/BILLY_CA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -123.765648,1103.499756 L -153.751892,843.490845"
+              class="id_THUNDERBOLT/BILLY_CA id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -123.765648,1103.499756 L -220.108353,882.584290"
+              class="id_THUNDERBOLT/BILLY_CA id_PM_38" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -220.108353,882.584290 L -260.126129,1120.373047"
+              class="id_PM_38 id_GOLDBUG" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -260.126129,1120.373047 L -153.751892,843.490845"
+              class="id_GOLDBUG id_LCHFH_8" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L 204.231918,833.427734"
+              class="id_DIAMONDBACK id_BERNSTEIN,_DR._NOAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L 268.279572,992.179382"
+              class="id_DIAMONDBACK id_FOX,_PHIL" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L 272.737579,1083.898193"
+              class="id_DIAMONDBACK id_MR._LUCK/RAMON_GARCI"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 272.737579,1083.898193 L 268.279572,992.179382"
+              class="id_MR._LUCK/RAMON_GARCI id_FOX,_PHIL" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 268.279572,992.179382 L 204.231918,833.427734"
+              class="id_FOX,_PHIL id_BERNSTEIN,_DR._NOAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 84.700378,1087.645508 L 60.236767,898.739197"
+              class="id_DIAMONDBACK id_TEMPLE,_CLAIRE" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 60.236767,898.739197 L 204.231918,833.427734"
+              class="id_TEMPLE,_CLAIRE id_BERNSTEIN,_DR._NOAH"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 25.276266,787.710876 L 84.700378,1087.645508"
+              class="id_PM_37 id_DIAMONDBACK" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 25.276266,787.710876 L 204.231918,833.427734"
+              class="id_PM_37 id_BERNSTEIN,_DR._NOAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L 32.682915,692.076538"
+              class="id_PM_23 id_LCHFH_2" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L 60.236767,898.739197"
+              class="id_PM_23 id_TEMPLE,_CLAIRE" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L -153.751892,843.490845"
+              class="id_PM_23 id_LCHFH_8" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L -220.108353,882.584290"
+              class="id_PM_23 id_PM_38" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L -69.580772,924.215332"
+              class="id_PM_23 id_PM_41" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L 129.258820,687.271118"
+              class="id_PM_23 id_LCHFH_4" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -89.891136,748.296143 L 204.231918,833.427734"
+              class="id_PM_23 id_BERNSTEIN,_DR._NOAH" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-619.167"
+                class="id_339" cy="-219.31645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-227.77872"
+                class="id_PM_30" cy="-331.57632" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="29.260302"
+                class="id_PM_26" cy="-199.80066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="65.95381"
+                class="id_LCHFH_3" cy="574.293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="273.48923"
+                class="id_PM&amp;andIF_111" cy="-208.42567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-415.89584"
+                class="id_PM&amp;andIF_88" cy="-311.09433" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-335.90198"
+                class="id_PM&amp;andIF_76/2" cy="-436.84534" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="60.236767"
+                class="id_TEMPLE,_CLAIRE" cy="898.7392" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-367.62888"
+                class="id_PM&amp;andIF_102" cy="-491.85983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-89.891136"
+                class="id_PM_23" cy="748.29614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1499.3811"
+                class="id_JOYCE,_SAMANTHA" cy="1215.1033" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-609.2182"
+                class="id_PM&amp;andIF_100" cy="-58.57766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="32.682915"
+                class="id_LCHFH_2" cy="692.07654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-20.541162"
+                class="id_PM&amp;andIF_56" cy="-482.19165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1554.7883"
+                class="id_JARVIS,_EDWIN" cy="1093.0714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="334.79822"
+                class="id_PM&amp;andIF_58" cy="-151.02493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-279.6407"
+                class="id_MACE" cy="1024.1014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1458.254"
+                class="id_MONGOOSE" cy="1190.5774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1515.2324"
+                class="id_AUSTIN,_SUSAN" cy="1113.5608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1614.8783"
+                class="id_BLACK_WIDOW/NATASHA" cy="1147.6971" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="883.90356"
+                class="id_HARDCORE/" cy="1196.7229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="75.42173"
+                class="id_CAGE,_LUKE/CARL_LUCA" cy="430.73215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1468.587"
+                class="id_STEELE,_MARCY_MASTER" cy="1258.0686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="249.63231"
+                class="id_STONE,_LT._MARCUS" cy="-505.51996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="146.75479"
+                class="id_PM_33" cy="568.6667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-13.972029"
+                class="id_PM_35" cy="457.32214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-82.11182"
+                class="id_GRIFFITH,_D.W." cy="-38.99363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1747.0458"
+                class="id_THENA" cy="-611.82404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="25.276266"
+                class="id_PM_37" cy="787.7109" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1825.7052"
+                class="id_UNUSCIONE" cy="-770.5865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="204.23192"
+                class="id_BERNSTEIN,_DR._NOAH" cy="833.42773" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-425.14752"
+                class="id_BLACK_MARIAH" cy="-183.59944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1428.1523"
+                class="id_THUNDERSTRIKE/ERIC_K" cy="1228.2117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-502.00272"
+                class="id_PM&amp;andIF_59" cy="-335.691" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="169.07503"
+                class="id_WING,_COLLEEN" cy="-858.43945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="185.80254"
+                class="id_PM&amp;andIF_94" cy="-515.46014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-370.83853"
+                class="id_PM&amp;andIF_95" cy="-669.65314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="589.93335"
+                class="id_LEWIS,_SHIRLEY_WASHI" cy="-788.48376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="375.69577"
+                class="id_PM&amp;andIF_96" cy="-187.00323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="926.27466"
+                class="id_USAGENT/CAPTAIN_JOHN" cy="1106.7804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="228.13121"
+                class="id_PM&amp;andIF_97" cy="-51.06269" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-201.5781"
+                class="id_PM&amp;andIF_90" cy="-668.1119" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="925.0812"
+                class="id_WONDER_MAN/SIMON_WIL" cy="1162.749" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-132.22658"
+                class="id_PM&amp;andIF_93" cy="-265.19495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="926.2812"
+                class="id_HAWK" cy="1229.0984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-659.8909"
+                class="id_PM&amp;andIF_89" cy="-153.19724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="37.75805"
+                class="id_PM&amp;andIF_98" cy="153.1802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1695.353"
+                class="id_STRIDER" cy="-846.69055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="272.73758"
+                class="id_MR._LUCK/RAMON_GARCI" cy="1083.8982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="423.67487"
+                class="id_ASMU_13" cy="-653.71387" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1702.4705"
+                class="id_MONTOYA,_JULIO" cy="-615.857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1742.513"
+                class="id_SUB-MARINER/NAMOR_MA" cy="-823.9355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-153.69727"
+                class="id_DR._DOOM/VICTOR_VON" cy="1223.1605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1073.8539"
+                class="id_IRON_FIST/DANIEL_RAN" cy="-759.2702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1397.6284"
+                class="id_TS_13" cy="1077.1758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1816.2845"
+                class="id_MONTOYA,_MARIA" cy="-676.35297" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-260.12613"
+                class="id_GOLDBUG" cy="1120.373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1083.583"
+                class="id_KNIGHT,_MISTY" cy="-714.9447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1505.6686"
+                class="id_DEPAUL,_SHIELD_SPECI" cy="1162.2101" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="84.70038"
+                class="id_DIAMONDBACK" cy="1087.6455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1600.9218"
+                class="id_ASBERY,_SHAMARI" cy="1194.8003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="228.84074"
+                class="id_LCHFH_10" cy="716.5326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1522.4323"
+                class="id_MASTERSON,_KEVIN" cy="1260.6493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-527.48676"
+                class="id_PM&amp;andIF_105" cy="-167.08235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-233.77751"
+                class="id_LCHFH_5" cy="-38.253433" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1546.9388"
+                class="id_CARTER,_PEGGY" cy="1193.2124" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1608.8844"
+                class="id_BISON/BILLY_KITSON" cy="1100.4618" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1703.7947"
+                class="id_KLEINSTOCK,_SVEN" cy="-749.8933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-123.76565"
+                class="id_THUNDERBOLT/BILLY_CA" cy="1103.4998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="880.3973"
+                class="id_ANDERS,_JOSHUA_RICHI" cy="1146.2798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1568.5591"
+                class="id_PARETSKY,_DR._GARY" cy="1236.9373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1610.4645"
+                class="id_KLEINSTOCK,_HARLAN" cy="-855.2355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1580.3146"
+                class="id_HFH_8" cy="-699.11224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-199.96165"
+                class="id_CHEMISTRO/CURTIS_CAR" cy="1142.9253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1719.9514"
+                class="id_LADY_OF_THE_LAKE" cy="-665.16547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1779.8048"
+                class="id_RITTER,_DEBORAH" cy="-740.10205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1694.5239"
+                class="id_PUNISHER_II/FRANK_CA" cy="-894.25134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1537.2819"
+                class="id_STEELE,_BOBBY" cy="1044.4508" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1828.0276"
+                class="id_RITTER,_DONALD" cy="-721.86707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="147.97177"
+                class="id_PM&amp;andIF_60" cy="-338.05826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="767.3244"
+                class="id_CAGE_6" cy="1057.1696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1802.1456"
+                class="id_MASTER/ESHU" cy="-808.60486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-288.85123"
+                class="id_PM&amp;andIF_63" cy="-704.56866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1768.31"
+                class="id_WHITE_TIGER_II/" cy="-681.40326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-129.31474"
+                class="id_ROBERTSON,_JOE" cy="-551.70856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="961.32184"
+                class="id_POWER_MAN_III/STEELE" cy="1195.0673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="35.65363"
+                class="id_PM&amp;andIF_67" cy="-354.60474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1564.2024"
+                class="id_STELLARIS/LEAH_PRINC" cy="1144.967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="839.9869"
+                class="id_HAMILTON,_MICKY" cy="1247.242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="836.615"
+                class="id_MEDINA,_ANALISA_MARI" cy="1200.0398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1646.7607"
+                class="id_EXODUS/BENNET_DUPARI" cy="-886.9334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="531.5378"
+                class="id_JAMESON,_J._JONAH" cy="-871.0234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="284.09286"
+                class="id_PM&amp;andIF_66" cy="-4.6851788" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-481.583"
+                class="id_PM&amp;andIF_73" cy="-567.77405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="185.70883"
+                class="id_PM_28" cy="345.23007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="886.2517"
+                class="id_ANDREWS,_DARYL_TROOP" cy="1255.3486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="161.34319"
+                class="id_TREVORIK" cy="-248.86275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1743.5924"
+                class="id_HOGARTH,_JERYN" cy="-879.7174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1648.5187"
+                class="id_ARBOGAST,_BAMBI" cy="-824.62604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1752.955"
+                class="id_SHE-HULK/JENNIFER_WA" cy="-777.7954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="540.8681"
+                class="id_SCORPION/MACDONALD_G" cy="-824.1921" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="139.76617"
+                class="id_SPIDER-MAN_CLONE/BEN" cy="-610.74664" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="117.771065"
+                class="id_ELLIS,_KEN" cy="-488.87564" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-73.333115"
+                class="id_PM&amp;andIF_84" cy="-704.9576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="583.6027"
+                class="id_URICH,_BEN" cy="-839.18054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="268.27957"
+                class="id_FOX,_PHIL" cy="992.1794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="347.3228"
+                class="id_PM&amp;andIF_83" cy="-235.61435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="129.25882"
+                class="id_LCHFH_4" cy="687.2711" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="173.23602"
+                class="id_PM&amp;andIF_79" cy="62.626137" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="50.23551"
+                class="id_DAREDEVIL/MATT_MURDO" cy="-672.2501" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-69.58077"
+                class="id_PM_41" cy="924.21533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-153.75189"
+                class="id_LCHFH_8" cy="843.49084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="214.83948"
+                class="id_JAMESON,_MARLA_MADIS" cy="-766.38666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1734.0836"
+                class="id_SCANNER_II" cy="-714.23474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-614.7175"
+                class="id_PM&amp;andIF_71" cy="-332.50275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1787.5785"
+                class="id_HUMAN_TORCH_ANDROID/" cy="-852.2786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="362.99652"
+                class="id_NELSON,_FRANKLIN_FOG" cy="-334.96454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-441.0712"
+                class="id_PM&amp;andIF_108" cy="-443.96445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1694.1066"
+                class="id_BLACK_KNIGHT_V/DANE" cy="-797.14087" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-802.313"
+                class="id_338" cy="-185.54065" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="1789.9716"
+                class="id_CORTEZ,_FABIAN" cy="-632.56915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-557.7001"
+                class="id_337" cy="-458.7703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-775.78644"
+                class="id_336" cy="-535.7862" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-736.42914"
+                class="id_335" cy="-324.3007" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-558.65845"
+                class="id_334" cy="-645.22565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-741.9669"
+                class="id_333" cy="-403.1464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-1588.7582"
+                class="id_QUICKSAND" cy="1054.4006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="968.0239"
+                class="id_NORTH,_DAKOTA" cy="1136.2916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="25.0" cx="-220.10835"
+                class="id_PM_38" cy="882.5843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>

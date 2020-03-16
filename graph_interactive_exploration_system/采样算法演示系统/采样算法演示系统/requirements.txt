@@ -1,0 +1,9 @@
+asgiref==3.2.3
+decorator==4.4.2
+Django==3.0.3
+django-cors-headers==3.2.1
+networkx==2.4
+numpy==1.18.1
+python-louvain==0.13
+pytz==2019.3
+sqlparse==0.3.1
