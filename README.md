@@ -13,13 +13,13 @@
 ### 异常提取策略
 * 设计一种基于三角形坍缩策略的高度稀有结构提取策略
 * 设计一种基于割点的边界稀有结构提取策略
-
+![image](https://github.com/HawkinYap/Preserving-Minority-Structures-in-Graph-Sampling/assets/Fig2.jpg)
 ### 设计一种基于异常保持的图采样方法
-
+![image](https://github.com/HawkinYap/Preserving-Minority-Structures-in-Graph-Sampling/assets/pipline.jpg)
 ### 算法效果展示1
-
+![image](https://github.com/HawkinYap/Preserving-Minority-Structures-in-Graph-Sampling/assets/case1.jpg)
 ### 算法效果展示2
-
+![image](https://github.com/HawkinYap/Preserving-Minority-Structures-in-Graph-Sampling/assets/case2.jpg)
 ### 算法效果展示3
-
+![image](https://github.com/HawkinYap/Preserving-Minority-Structures-in-Graph-Sampling/assets/user-study.jpg)
 ### 算法视频介绍
